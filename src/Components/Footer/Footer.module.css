@@ -1,0 +1,16 @@
+.footer {
+    text-align: center;
+    background-color: #143F6B;
+    color: #F6F6F6;
+}
+.icon {
+    font-family: Bazooka , sans-serif;
+    font-size: 26px;
+    font-weight: bolder;
+    color: #F55353;
+}
+.trademark {
+    text-align: center;
+    padding: 1rem;
+    font-weight: bold;
+}

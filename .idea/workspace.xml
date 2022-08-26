@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="adfaf957-6714-44a7-866d-0a3bea99b6ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Layout/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/MainLayout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\Visual Studio Code\Web\WeCode\wecode-ecommerce-website\src\assets\img\header" />
       <recent name="D:\Development\Visual Studio Code\Web\WeCode\wecode-ecommerce-website\src\Components\Navbar" />
       <recent name="D:\Development\Visual Studio Code\Web\WeCode\wecode-ecommerce-website\src" />
     </key>
@@ -75,7 +78,10 @@
       <updated>1660936788015</updated>
       <workItem from="1660936790559" duration="3087000" />
       <workItem from="1660989534010" duration="2499000" />
-      <workItem from="1660992091794" duration="8396000" />
+      <workItem from="1660992091794" duration="16701000" />
+      <workItem from="1661060362961" duration="3555000" />
+      <workItem from="1661322345890" duration="1537000" />
+      <workItem from="1661512348181" duration="6069000" />
     </task>
     <servers />
   </component>

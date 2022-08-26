@@ -1,0 +1,16 @@
+.rating {
+    margin: 2rem;
+    padding: 2rem;
+}
+.title {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.card {
+    height: 350px;
+}
+@media (max-width: 768px) {
+    .card {
+        margin-bottom: 2rem;
+    }
+}

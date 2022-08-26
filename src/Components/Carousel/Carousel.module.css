@@ -1,0 +1,13 @@
+.bg {
+    background-color: #F55353;
+}
+.carousel {
+    margin: 2rem;
+    padding: 2rem;
+    color: blue;
+}
+@media (max-width: 768px) {
+  .carousel {
+      margin-top: 10rem;
+  }
+}

@@ -12,7 +12,7 @@ import {
   MDBIcon
 } from 'mdb-react-ui-kit';
 
-export default function App() {
+const Navbar = () => {
   const [showNav, setShowNav] = useState(false);
 
   return (
@@ -32,19 +32,21 @@ export default function App() {
         <MDBCollapse navbar show={showNav}>
           <MDBNavbarNav right fullWidth={false} className="mb-2 mb-lg-0">
             <MDBNavbarItem>
-              <MDBNavbarLink aria-current="page" href="#">
+              <MDBNavbarLink aria-current="page" href="home">
                 Home
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href="#">Item</MDBNavbarLink>
+              <MDBNavbarLink href="items">Items</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href="#">About</MDBNavbarLink>
+              <MDBNavbarLink href="about">About</MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
       </MDBContainer>
     </MDBNavbar>
   );
-}
+};
+
+export default Navbar;

@@ -1,0 +1,24 @@
+.headerRow {
+    height: 400px;
+    width: auto;
+}
+@media (max-width: 768px) {
+    .headerRow {
+        margin-top: 4rem;
+    }
+}
+.headerImage {
+    height: 100%;
+}
+
+/* Default height for small devices */
+#introExample {
+    height: 400px;
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+    #introExample {
+        height: 600px;
+    }
+}
