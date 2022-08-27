@@ -5,4 +5,11 @@
 }
 .navbar {
     background: #143F6B;
+    color: #F6F6F6;
+}
+a {
+    color: #F6F6F6;
+}
+a:hover {
+    color: #F55353;
 }

@@ -5,7 +5,7 @@ import classes from './Footer.module.css';
 const Footer = () => {
   return (
     <MDBFooter className={classes.footer}>
-      <section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+      <section className="d-flex justify-content-center p-4 border-bottom">
         <div>
           <span className="me-4 text-reset">
             <MDBIcon fab icon="facebook-f" />

@@ -20,7 +20,7 @@ const Navbar = () => {
     <MDBNavbar expand="lg" dark className={classes.navbar}>
       <MDBContainer fluid>
         <MDBNavbarBrand href="/" className={classes.icon}>
-          Stash
+          <NavLink to="/">Stash</NavLink>
         </MDBNavbarBrand>
         <MDBNavbarToggler
           type="button"
