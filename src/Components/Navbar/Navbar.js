@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { NavLink } from 'react-router-dom';
 import classes from './Navbar.module.css';
 import {
   MDBContainer,
@@ -33,14 +34,18 @@ const Navbar = () => {
           <MDBNavbarNav right fullWidth={false} className="mb-2 mb-lg-0">
             <MDBNavbarItem>
               <MDBNavbarLink aria-current="page" href="home">
-                Home
+                <NavLink to="/">Home</NavLink>
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href="items">Items</MDBNavbarLink>
+              <MDBNavbarLink href="items">
+                <NavLink to="/items">Items</NavLink>
+              </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href="about">About</MDBNavbarLink>
+              <MDBNavbarLink href="about">
+                <NavLink to="/">About</NavLink>
+              </MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>

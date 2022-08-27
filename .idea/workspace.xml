@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="adfaf957-6714-44a7-866d-0a3bea99b6ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navbar/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layout/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/MainLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Plugins/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Plugins/axios.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\Visual Studio Code\Web\WeCode\wecode-ecommerce-website\src\Layout\ItemsLayout" />
       <recent name="D:\Development\Visual Studio Code\Web\WeCode\wecode-ecommerce-website\src\assets\img\header" />
       <recent name="D:\Development\Visual Studio Code\Web\WeCode\wecode-ecommerce-website\src\Components\Navbar" />
       <recent name="D:\Development\Visual Studio Code\Web\WeCode\wecode-ecommerce-website\src" />
@@ -81,7 +84,7 @@
       <workItem from="1660992091794" duration="16701000" />
       <workItem from="1661060362961" duration="3555000" />
       <workItem from="1661322345890" duration="1537000" />
-      <workItem from="1661512348181" duration="6069000" />
+      <workItem from="1661512348181" duration="15161000" />
     </task>
     <servers />
   </component>
